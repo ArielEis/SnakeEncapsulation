@@ -1,5 +1,5 @@
 /**
- * Created by ariel on 17/01/2017.
+ * Created by ariel on 17/01/2017
  */
 
 // initialize variables
