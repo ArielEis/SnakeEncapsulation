@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Snake</title>
+
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="snake.js"></script>
+    <link rel="stylesheet" href="snake.css">
+</head>
+<body onkeydown="changeDirection(event)">
+    <table><tr>
+        <td><div id ="textDiv">Your score is: </div></td>
+        <td><div id="score"></div></td>
+    </tr></table>
+    <div id="stage"></div>
+</body>
+</html>

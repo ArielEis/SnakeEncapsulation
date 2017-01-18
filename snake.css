@@ -1,0 +1,59 @@
+#blank {
+    width:auto;
+    background-color:#FFFFFF;
+    border:3px solid  #FFFFFF;
+    border-spacing:1px;
+}
+
+#snake {
+    width:auto;
+    background-color:#000000;
+    border:3px solid  #000000;
+}
+
+
+#snakeHead {
+    width:auto;
+    background-color:#000000;
+    border:3px solid  #000000;
+}
+
+#snake2 {
+    width:auto;
+    background-color:#000000;
+    border:3px solid  #0000FF;
+}
+
+#snakeHead2 {
+    width:auto;
+    background-color:#000000;
+    border:3px solid  #0000FF;
+}
+
+#tdId {
+    width:3px;
+    height:3px;
+}
+
+
+#tableId {
+    border: 2px solid black;
+}
+
+#food1 {
+    width:auto;
+    border:3px solid red;
+    border-spacing:1px;
+}
+
+#food2 {
+    width:auto;
+    border:3px solid orange;
+    border-spacing:1px;
+}
+
+#food3 {
+    width:auto;
+    border:3px solid teal;
+    border-spacing:1px;
+}
